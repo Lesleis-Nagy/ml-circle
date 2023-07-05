@@ -9,9 +9,12 @@ dist
 output
 venv
 xml
+train-*
+test-*
 
 # Files
 *.db
 *.h5
 *.xdmf
+*.pdf
 MANIFEST
